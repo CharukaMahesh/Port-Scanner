@@ -7,7 +7,7 @@ This is a simple Python tool for scanning ports on a target system.
 1. Clone the repository:
 
     ```
-    git clone <repository_url>
+    git clone https://github.com/CharukaMahesh/Port-Scanner
     ```
 
 2. Navigate to the directory:
